@@ -105,6 +105,10 @@ body {
     text-shadow: 2px 2px 4px rgb(96, 233, 226);
 }
 /* hedear*/
+header {
+    position: sticky;
+    top: 50px;
+}
 .logo {
     text-transform: uppercase;
     font-size: var(--size-30);
