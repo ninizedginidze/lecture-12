@@ -34,7 +34,6 @@
     --bl-radius:30px;
 }
 body {
-    position:relative;
     background-color: #061427;
 }
 .container {
